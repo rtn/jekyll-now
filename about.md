@@ -14,6 +14,4 @@ Birds of a feather flock together is a profound statement about animals includin
 
 
 
-### Contact me
 
-[rtnatucsb@gmail.com](mailto:rtnatucsb@gmail.com)

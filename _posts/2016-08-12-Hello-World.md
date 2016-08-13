@@ -18,3 +18,17 @@ Institutional Learning
 Foster Educadtion
 
 Industrial Children Farmining
+
+FreeBSD
+
+Python
+
+Ruby
+
+R
+
+NginX
+
+The Cloud
+
+

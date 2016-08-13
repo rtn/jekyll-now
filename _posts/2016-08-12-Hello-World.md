@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Educate or Vegucate!
+title:  Educate or Vegucate?
 ---
 
 Self Taugh
@@ -15,7 +15,7 @@ Prescribed Education
 
 Institutional Learning
 
-Foster Educadtion
+Foster Education
 
 Industrial Children Farmining
 

@@ -8,8 +8,12 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+What is education and how does one learn best?  "Free to Learn"--Peter Gray
+
+Birds of a feather flock together is a profound statement about animals including the primate family.
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rtnatucsb@gmail.com](mailto:rtnatucsb@gmail.com)

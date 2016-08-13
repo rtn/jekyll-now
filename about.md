@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-To define oneself is to set boundary on who we are. No not define oneself is a endless,limitless possibilities to explore and expand one horizon.
+To define oneself is to set boundary on who we are. To not define oneself is an endless, limitless possibilities to explore and expand one horizon.
 
 ### More Information
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+To define oneself is to set boundary on who we are. No not define oneself is a endless,limitless possibilities to explore and expand one horizon.
 
 ### More Information
 

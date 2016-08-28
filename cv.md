@@ -9,14 +9,18 @@ Offering bachelor degrees in Aeronautical Science & Engineering, and Mechanical 
 
 
 ### Eduction
-## Cerritos College September 1997-June 2000 
+## Cerritos College September
+1997-June 2000 
+
 Business Computer Information System
 
 Programming
 
 System Analysis
 
-## University of California, Davis September 1992-June 1997
+## University of California, Davis
+September 1992-June 1997
+
 Aeronautical Science & Engineering
 
 Mechanical Engineering

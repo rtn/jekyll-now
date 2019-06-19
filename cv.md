@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-### Summary
+# Summary
 Offering bachelor degrees in Aeronautical Science & Engineering, and Mechanical Engineering from the University of California, Davis with strong interest in computer science and programming. 
 
 
